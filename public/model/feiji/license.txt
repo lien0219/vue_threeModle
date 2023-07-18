@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sukhoi Su 35 Flanker-H
+* source:	https://sketchfab.com/3d-models/sukhoi-su-35-flanker-h-aa39006f1a8c4d1689a86e4670161244
+* author:	LazaR_Planes (https://sketchfab.com/LazaR_Planes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sukhoi Su 35 Flanker-H" (https://sketchfab.com/3d-models/sukhoi-su-35-flanker-h-aa39006f1a8c4d1689a86e4670161244) by LazaR_Planes (https://sketchfab.com/LazaR_Planes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
